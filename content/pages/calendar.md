@@ -6,31 +6,333 @@ uid: 1436a27f-d9ea-91b1-de9a-d462068e4493
 
 The problem sets are due during the lecture noted in the table below.
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Lecture: _Newhall, History of Photography_ | Assignment 1 (FFT-Paint) handed out |
-| 2 | Lecture: _FFT-Paint_ | &nbsp; |
-| 3 | Assignment 1 Review | Assignment 2 (Cube) handed out |
-| 4 | Lecture: _Cube_ | &nbsp; |
-| 5 | Assignment 2 Review | Assignment 3 (Colours) handed out |
-| 6 | Lecture: _Colours_ | &nbsp; |
-| 7 | Assignment 3 Review | Assignment 4 (Personmade Environment) handed out |
-| 8 | Lecture (Consortia Week): _Personmade Environment_ | &nbsp; |
-| 9 | Lecture (Consortia Week): _Personmade Environment_ (cont.) | &nbsp; |
-| 10 | Assignment 4 Review | Assignment 5 (Natural Environment) handed out |
-| 11 | Lecture: _Natural Environment_ | &nbsp; |
-| 12 | Assignment 5 Review | Assignment 6 (Favorite Thing) handed out |
-| 13 | Lecture: _Favorite Thing_ | &nbsp; |
-| 14 | Assignment 6 Review | Assignment 7 (Unnatural) handed out |
-| 15 | Lecture: _Unnatural_ | &nbsp; |
-| 16 | Assignment 7 Review | Assignment 8 (Improve) handed out |
-| 17 | Lecture: _Improve_ | &nbsp; |
-| 18 | Assignment 8 Review | Assignment 9 (Improve More) handed out |
-| 19 | Discussion: _Improve More_ | &nbsp; |
-| 20 | Assignment 9 Review | Assignment 10 (Portfolio) handed out |
-| 21 | Lecture: _Portfolio_ | &nbsp; |
-| 22 | Assignment 10 Review | &nbsp; |
-| 23 | Exhibition Prep | &nbsp; |
-| 24 | Exhibition Prep | &nbsp; |
-| 25 | Exhibition Prep | &nbsp; |
-| 26 | Final Exhibition |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Newhall, History of Photography_
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 (FFT-Paint) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _FFT-Paint_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 (Cube) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Cube_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 (Colours) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Colours_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 (Personmade Environment) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture (Consortia Week): _Personmade Environment_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture (Consortia Week): _Personmade Environment_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 (Natural Environment) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Natural Environment_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 (Favorite Thing) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Favorite Thing_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 (Unnatural) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Unnatural_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 (Improve) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Improve_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 (Improve More) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: _Improve More_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 Review
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 (Portfolio) handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: _Portfolio_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Exhibition Prep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Exhibition Prep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Exhibition Prep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exhibition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
